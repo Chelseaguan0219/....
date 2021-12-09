@@ -13,4 +13,4 @@ The directory structure includes:
 -/README.md 
 /notebooks/ - directory with all the jupyter notebook writeups
 /data/ - The data is randomly selected each time we run the code. 
-![image](https://user-images.githubusercontent.com/81730540/145322818-38d92f8d-3533-4ebb-a3a8-0ce21d79f569.png)
+
